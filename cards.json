@@ -1,0 +1,112 @@
+{
+"cards": [{
+    "Name": "Airport", "Type": "Landmark", "Version": "Harbor", "Cost": "30", "Activation": "", "Description": "If you do not build anything on your turn, get 10 coins from the bank.", "Subtext": ""
+}{
+    "Name": "Amusement Park", "Type": "Landmark", "Version": "Base", "Cost": "16", "Activation": "", "Description": "If you roll doubles, take another turn after this one.", "Subtext": ""
+}{
+    "Name": "Apple Orchard", "Type": "Blue", "Version": "Base", "Cost": "3", "Activation": "10", "Description": "Get 3 coins from the bank, on anyone's turn.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Bakery", "Type": "Green", "Version": "Base", "Cost": "1", "Activation": "2-3", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Business Center", "Type": "Purple", "Version": "Base", "Cost": "8", "Activation": "6", "Description": "Exchange 1 of your non-landmark establishments for 1 an opponent owns.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Cafe", "Type": "Red", "Version": "Base", "Cost": "2", "Activation": "3", "Description": "Take 1 coin from the active player."
+}{
+    "Name": "Cheese Factory", "Type": "Green", "Version": "Base", "Cost": "5", "Activation": "7", "Description": "Get 3 coins from the bank for each ranch establishment you own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "City Hall", "Type": "Landmark", "Version": "Harbor", "Cost": "", "Activation": "", "Description": "After earning income, if you have no coins, get 1 coin from the bank.", "Subtext": ""
+}{
+    "Name": "Convenience Store", "Type": "Green", "Version": "Base", "Cost": "2", "Activation": "4", "Description": "Get 3 coins from the bank.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Convention Center", "Type": "Purple", "Version": "Deluxe", "Cost": "7", "Activation": "10", "Description": "You may choose to activate another of your non-landmark establishments in place of this one. If you do, return this card to the market.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Corn Field", "Type": "Blue", "Version": "Millionaire's Row", "Cost": "2", "Activation": "3-4", "Description": "If you have fewer than 2 landmarks built, get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Demolition Company", "Type": "Green", "Version": "Millionaire's Row", "Cost": "2", "Activation": "4", "Description": "Demolish 1 of your built landmarks (flip it back over). When you do, get 8 coins from the bank.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Diamine", "Type": "Blue", "Version": "Deluxe", "Cost": "6", "Activation": "9", "Description": "Get 5 coins from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Dice Tower", "Type": "Landmark", "Version": "Promo", "Cost": "", "Activation": "", "Description": "", "Subtext": ""
+}{
+    "Name": "Exhibit Hall", "Type": "Purple", "Version": "Millionaire's Row", "Cost": "7", "Activation": "10", "Description": "You may activate 1 of your non-landmark establishments instead. If you do, return this establishment to the supply.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Family Restaurant", "Type": "Red", "Version": "Base", "Cost": "3", "Activation": "9-10", "Description": "Take 2 coins from the active player.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Farmers Market", "Type": "Green", "Version": "Base", "Cost": "2", "Activation": "11-12", "Description": "Get 2 coins from the bank for each wheat establishment you own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Flower Garden", "Type": "Blue", "Version": "Harbor", "Cost": "2", "Activation": "4", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Flower Shop", "Type": "Green", "Version": "Harbor", "Cost": "1", "Activation": "6", "Description": "Get 1 coin from the bank for each Flower Garden you own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Food Warehouse", "Type": "Green", "Version": "Harbor", "Cost": "2", "Activation": "12-13", "Description": "Get 2 coins from the bank for each cup establishment you own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Forest", "Type": "Blue", "Version": "Base", "Cost": "3", "Activation": "5", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "French Restaurant", "Type": "Red", "Version": "Millionaire's Row", "Cost": "3", "Activation": "5", "Description": "If the active player has at least 2 landmarks built, take 5 coins from them.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Fruit and Vegetable Market", "Type": "Green", "Version": "Base", "Cost": "2", "Activation": "11-12", "Description": "Get 2 coins from the bank for each wheat establishment you own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Furniture Factory", "Type": "Green", "Version": "Base", "Cost": "3", "Activation": "8", "Description": "Get 3 coins from the bank for each gear establishment you own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Gaming Mega Store", "Type": "Purple", "Version": "Promo", "Cost": "", "Activation": "", "Description": "", "Subtext": ""
+}{
+    "Name": "General Store", "Type": "Green", "Version": "Millionaire's Row", "Cost": "0", "Activation": "2", "Description": "If you have fewer than 2 landmarks built, get 2 coins from the bank.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Hamburger Stand", "Type": "Red", "Version": "Harbor", "Cost": "1", "Activation": "8", "Description": "Take 1 coin from the active player.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Harbor", "Type": "Landmark", "Version": "Harbor", "Cost": "2", "Activation": "", "Description": "When you roll the dice, if the result is 10 or greater, you may add 2 to the total.", "Subtext": ""
+}{
+    "Name": "International Exhibit Hall", "Type": "Purple", "Version": "Millionaire's Row", "Cost": "7", "Activation": "10", "Description": "You may activate 1 of your non-landmark establishments instead. If you do, return this establishment to the supply.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Loan Office", "Type": "Green", "Version": "Millionaire's Row", "Cost": "0", "Activation": "5-6", "Description": "When built, get 5 coins from the bank. When activated, pay 2 coins to the bank.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Mackerel Boat", "Type": "Blue", "Version": "Harbor", "Cost": "2", "Activation": "8", "Description": "If you own a Harbor, get 3 coins from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Member's Only Club", "Type": "Red", "Version": "Millionaire's Row", "Cost": "4", "Activation": "12-14", "Description": "If the active player has at least 3 landmarks built, take all of their coins.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Mine", "Type": "Blue", "Version": "Base", "Cost": "6", "Activation": "9", "Description": "Get 5 coins from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Moon Tower", "Type": "Landmark", "Version": "Bright Lights, Big City", "Cost": "22", "Activation": "", "Description": "You may roll 3 dice on your turn. If you do, remove 1 of the dice after rolling and only count the remaining 2.", "Subtext": ""
+}{
+    "Name": "Moving Company", "Type": "Green", "Version": "Millionaire's Row", "Cost": "2", "Activation": "9-10", "Description": "Give 1 of your non-major establishments to an opponent. When you do, get 4 coins from the bank.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Park", "Type": "Purple", "Version": "Millionaire's Row", "Cost": "3", "Activation": "11-13", "Description": "Redistribute all players' coins as evenly as possible, making up any difference with coins from the bank.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Pizza Joint", "Type": "Red", "Version": "Harbor", "Cost": "1", "Activation": "7", "Description": "Take 1 cion from the active player.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Private Club", "Type": "Red", "Version": "Millionaire's Row", "Cost": "4", "Activation": "12-14", "Description": "If the active player has at least 3 landmarks built, take all of their coins.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Publisher", "Type": "Purple", "Version": "Harbor", "Cost": "5", "Activation": "7", "Description": "Take 1 coin from each opponent for each cup and box establishment they own.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Radio Tower", "Type": "Landmark", "Version": "Base", "Cost": "22", "Activation": "", "Description": "Once per turn, you may reroll the dice.", "Subtext": ""
+}{
+    "Name": "Ranch", "Type": "Blue", "Version": "Base", "Cost": "1", "Activation": "2", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Renovation Company", "Type": "Purple", "Version": "Millionaire's Row", "Cost": "4", "Activation": "8", "Description": "Close for renovation all copies of any 1 establishment in play. Take 1 coin from each opponent for each of their establishments closed this way.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Santa's Workshop", "Type": "Landmark", "Version": "Promo", "Cost": "", "Activation": "", "Description": "", "Subtext": ""
+}{
+    "Name": "Shopping Mall", "Type": "Landmark", "Version": "Base", "Cost": "10", "Activation": "", "Description": "Your cup and box establishments earn +1 coin when activated.", "Subtext": ""
+}{
+    "Name": "Soda Bottling Plant", "Type": "Green", "Version": "Millionaire's Row", "Cost": "5", "Activation": "11", "Description": "Get 1 coin from the bank for each cup owned by all players.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Stadium", "Type": "Purple", "Version": "Base", "Cost": "6", "Activation": "6", "Description": "Take 2 coins from each opponent", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Sushi Bar", "Type": "Red", "Version": "Harbor", "Cost": "4", "Activation": "1", "Description": "If you own a Harbor, take 3 coins from the active player.", "Subtext": "\n*(opponent's turn)*"
+}{
+    "Name": "Tax Office", "Type": "Purple", "Version": "Harbor", "Cost": "4", "Activation": "8-9", "Description": "From each opponent who has 10+ coins, take half of their coins, rounded down.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Tech Startup", "Type": "Purple", "Version": "Millionaire's Row", "Cost": "1", "Activation": "10", "Description": "At the end of each of your turns, you may add 1 coin to this card. When activated, take coins from each opponent equal to the amount on this card.", "Subtext": " *(your turn only)*"
+}{
+    "Name": "Train Station", "Type": "Landmark", "Version": "Base", "Cost": "4", "Activation": "", "Description": "You may roll 1 or 2 dice.", "Subtext": ""
+}{
+    "Name": "Tuna Boat", "Type": "Blue", "Version": "Harbor", "Cost": "5", "Activation": "12-14", "Description": "The active player rolls 2 dice. If you own a Harbor, get coins from the bank equal to the result.", "Subtext": " *(anyone's turn)*"
+}{
+    "Name": "TV Station", "Type": "Purple", "Version": "Base", "Cost": "7", "Activation": "6", "Description": "Take 5 coins from an opponent.", "Subtext": "\n*(your turn only)*"
+}{
+    "Name": "Vineyard", "Type": "Blue", "Version": "Millionaire's Row", "Cost": "3", "Activation": "7", "Description": "Get 3 coins from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Wheat Field", "Type": "Blue", "Version": "Base", "Cost": "1", "Activation": "1", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
+}{
+    "Name": "Winery", "Type": "Green", "Version": "Millionaire's Row", "Cost": "3", "Activation": "9", "Description": "Get 6 coins from the bank for each Vineyard you own. Then close this establishment for renovation.", "Subtext": "\n*(your turn only)*"
+}]}
