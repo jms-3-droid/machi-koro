@@ -4,13 +4,13 @@
 }{
     "Name": "Amusement Park", "Type": "Landmark", "Version": "Base", "Cost": "16", "Activation": "", "Description": "If you roll doubles, take another turn after this one.", "Subtext": ""
 }{
-    "Name": "Apple Orchard", "Type": "Blue", "Version": "Base", "Cost": "3", "Activation": "10", "Description": "Get 3 coins from the bank, on anyone's turn.", "Subtext": "\n*(anyone's turn)*"
+    "Name": "Apple Orchard", "Type": "Blue", "Version": "Base", "Cost": "3", "Activation": "10", "Description": "Get 3 coins from the bank.", "Subtext": "\n*(anyone's turn)*"
 }{
     "Name": "Bakery", "Type": "Green", "Version": "Base", "Cost": "1", "Activation": "2-3", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(your turn only)*"
 }{
     "Name": "Business Center", "Type": "Purple", "Version": "Base", "Cost": "8", "Activation": "6", "Description": "Exchange 1 of your non-landmark establishments for 1 an opponent owns.", "Subtext": "\n*(your turn only)*"
 }{
-    "Name": "Cafe", "Type": "Red", "Version": "Base", "Cost": "2", "Activation": "3", "Description": "Take 1 coin from the active player."
+    "Name": "Cafe", "Type": "Red", "Version": "Base", "Cost": "2", "Activation": "3", "Description": "Take 1 coin from the active player.", "Subtext": " *(opponent's turn)*"
 }{
     "Name": "Cheese Factory", "Type": "Green", "Version": "Base", "Cost": "5", "Activation": "7", "Description": "Get 3 coins from the bank for each ranch establishment you own.", "Subtext": "\n*(your turn only)*"
 }{
@@ -72,7 +72,7 @@
 }{
     "Name": "Park", "Type": "Purple", "Version": "Millionaire's Row", "Cost": "3", "Activation": "11-13", "Description": "Redistribute all players' coins as evenly as possible, making up any difference with coins from the bank.", "Subtext": " *(your turn only)*"
 }{
-    "Name": "Pizza Joint", "Type": "Red", "Version": "Harbor", "Cost": "1", "Activation": "7", "Description": "Take 1 cion from the active player.", "Subtext": "\n*(opponent's turn)*"
+    "Name": "Pizza Joint", "Type": "Red", "Version": "Harbor", "Cost": "1", "Activation": "7", "Description": "Take 1 coin from the active player.", "Subtext": "\n*(opponent's turn)*"
 }{
     "Name": "Private Club", "Type": "Red", "Version": "Millionaire's Row", "Cost": "4", "Activation": "12-14", "Description": "If the active player has at least 3 landmarks built, take all of their coins.", "Subtext": "\n*(opponent's turn)*"
 }{
