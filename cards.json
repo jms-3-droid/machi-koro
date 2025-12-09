@@ -34,7 +34,7 @@
 }{
     "Name": "Farmers Market", "Type": "Green", "Version": "Base", "Cost": "2", "Activation": "11-12", "Description": "Get 2 coins from the bank for each wheat establishment you own.", "Subtext": "\n*(your turn only)*"
 }{
-    "Name": "Flower Garden", "Type": "Blue", "Version": "Harbor", "Cost": "2", "Activation": "4", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
+    "Name": "Flower Orchard", "Type": "Blue", "Version": "Harbor", "Cost": "2", "Activation": "4", "Description": "Get 1 coin from the bank.", "Subtext": "\n*(anyone's turn)*"
 }{
     "Name": "Flower Shop", "Type": "Green", "Version": "Harbor", "Cost": "1", "Activation": "6", "Description": "Get 1 coin from the bank for each Flower Garden you own.", "Subtext": "\n*(your turn only)*"
 }{
